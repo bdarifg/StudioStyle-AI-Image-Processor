@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StudioStyle AI Image Processor",
+  "description": "An AI-powered application using the Gemini 2.5 Flash Image Model to automatically remove backgrounds and enhance product or portrait photos for e-commerce. It supports batch processing and provides both transparent and white-background PNG outputs.",
+  "requestFramePermissions": []
+}
